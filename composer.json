@@ -28,6 +28,12 @@
     "craftcms/cms": "~3.0.0-beta.1",
     "league/fractal": "^0.15.0"
   },
+  "repositories": [
+    {
+      "type": "composer",
+      "url": "https://asset-packagist.org"
+    }
+  ],
   "autoload": {
     "psr-4": {
       "craft\\elementapi\\": "src/"
