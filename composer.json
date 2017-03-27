@@ -40,5 +40,11 @@
     "handle": "elementApi",
     "changelogUrl": "https://raw.githubusercontent.com/craftcms/element-api/master/CHANGELOG.md",
     "downloadUrl": "https://github.com/craftcms/element-api/archive/master.zip"
-  }
+  },
+  "repositories": [
+    {
+      "type": "composer",
+      "url": "https://asset-packagist.org"
+    }
+  ]
 }
